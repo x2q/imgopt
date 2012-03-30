@@ -1,0 +1,16 @@
+imgopt changelog
+
+# Version: 0.1.2 2009-04-02
+
+Better fix for weird pngout behaviour where it sometimes appends ".PNG"
+to output filename.
+
+# Version: 0.1.1 2009-03-04
+
+Fixes for compatibility with BSD mktemp and stat syntax.
+Fix for weird pngout behavior where it sometimes appends ".PNG" to output
+filename.
+
+# Version 0.1 2009-03-01
+
+Initial public release.
